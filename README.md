@@ -12,9 +12,6 @@ A simplified habit tracker that helps you make great habits and break bad ones. 
 
 
 
-Check out the [website](https://streax.vercel.app). If you like it, 🌟 the repo. Why? Because it keeps a programmer motivated.
-
-
   
 ## Features
 
@@ -34,9 +31,3 @@ Check out the [website](https://streax.vercel.app). If you like it, 🌟 the rep
 
 ### Habit Details
 ![Habit Details](https://github.com/drkPrince/streax/blob/main/src/screenshots/details.png)
-
-## Author
-
-- [Prince Kumar Singh](https://twitter.com/drkPrns)
-
-  
