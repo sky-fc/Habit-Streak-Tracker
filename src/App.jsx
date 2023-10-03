@@ -82,7 +82,7 @@ export default function App() {
                                 </div>
                                 <a
                                     className=" transition-all duration-300 hover:text-red-700 px-3 py-1 text-sm rounded-full text-gray-400 items-center text-sm flex"
-                                    href="https://github.com/drkPrince/streax"
+                                    href="https://github.com/sky-fc/Habit-Streak-Tracker.git"
                                     target="_blank"
                                     rel="noreferrer"
                                 >
